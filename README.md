@@ -1,4 +1,4 @@
-# 🚀 Hello World! I'm Fengyuan Yang
+# 🚀 Hello World! I'm TylerYang
 
 Welcome to my GitHub profile! I am a passionate student majoring in **Data Science and Artificial Intelligence (DSAI)**
 
