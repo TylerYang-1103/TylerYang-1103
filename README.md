@@ -1,6 +1,6 @@
 # 🚀 Hello World! I'm Fengyuan Yang
 
-Welcome to my GitHub profile! I am a passionate student majoring in **Data Science and Artificial Intelligence (DSAI)** at **Hong Kong Metropolitan University (HKMU)**. 
+Welcome to my GitHub profile! I am a passionate student majoring in **Data Science and Artificial Intelligence (DSAI)**
 
 I use this space to manage my university assignments, experiment with AI frameworks, and host my personal side projects.
 
